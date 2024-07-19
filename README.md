@@ -2,10 +2,6 @@
 App which shows information about clubs and events hosted by it in a college.<br/>
 This app was made for Inhouse NTCC Practical Training , as a Summer project before starting of my third year of BTech CSE.
 
-### Watch Demo of App 
-In this video you can see how this mobile application will work on running. 
-[Click here to watch](https://youtu.be/ZNEex8cOFq8)
-
 ### Tech Stack
  * Written in Java Programming Language.
  * IDE :  Android Studio
